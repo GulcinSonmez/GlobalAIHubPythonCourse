@@ -1,9 +1,12 @@
 
 ![](img/newlogo.png)
 
-**Course Date:** 08.03.2021
+**Course Date:** 08.03.2021 /12.03.2021
+
 **Name:** Gülçin  
+
 **Surname:** SÖNMEZ
+
 **Email:** gulcinsonmez3@gmail.com  
 
   
